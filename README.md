@@ -1,8 +1,6 @@
 <h1 align="center">I’m Artjom Kucajev</h1>
 <h3 align="center">A dedicated Computer Science student studying at University College Dublin(UCD)</h3>
 
-- 🔭 I’m currently looking for **a tech related internship for March - September 2025**
-
 - 📫 How to reach me **artjom.kucajevs@gmail.com**
 
 <h3 align="left">Click to see my profiles:</h3>
